@@ -1,0 +1,76 @@
+Navegación del asociado
+--------------------------------
+Index
+Index=Borrar menu y reemplazar por submenu cabeza.
+Celulares
+Deportes
+Electrodomesticos
+Muebles
+
+Index borrar boton ver catalogo.
+
+Index borrar el cupo de la vista 
+Cupo disponible encima.
+abajo números de cupo
+Index: Borrar menu hamburguesa
+
+
+producto-uno-compra: eliminar texto descripción.
+Eliminar texto  de tipo de compras
+Cambiar el formulario a un input: 1
+Cuota: quitar texto unidades
+
+producto-comprado:
+Cambiar: cantidad
+Estado: Pendiente
+Pedido: numero concecutivo
+Borrar (bodeja y embalaje, envio y entrega, guía logistioca y empresa logistica, aliado)
+Precio: 1.500.000
+Cuotas de compra: 36
+Referencia: Linio.
+
+Titulo Reemplaza Gracias por su compra = Su compra a sido enviada
+Colocar padding al contenedor
+
+Botón:
+
+
+------------------------
+
+
+Botón: Gestionar usuario: Asignar cupos
+
+
+(Parete)Pie de Paginax24
+-Botón de entrar a administración
+-Cambiar botones por lo que dice en el ppt
+
+
+Aliados
+Aprobaciones-pendientes-aproabadas
+Al boton Aprobar/Pendiente/Rechazar
+Cambiar nombre y producto por Roxanna Murillo.
+
+Movimientos cambiar estados tabla 2
+Alistamiento
+En transito
+
+AACD9897.html
+Eliminar del bloque aliado.
+
+Fecha Pedido
+Fecha Bodega
+Fecha Embala
+Cantidades 1
+
+
+Quitar descuentos
+
+
+
+
+
+
+
+
+

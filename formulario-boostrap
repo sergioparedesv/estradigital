@@ -1,0 +1,10 @@
+<form action="">
+	<div class="form-group">
+		<h5>Diligencie todos los datos del usuario aquí</h5>
+		<label for="Usuario">Usuario</label>
+        <input type="text" class="form-control" id="Usuario" placeholder="Usuario">
+
+	</div>
+	
+
+</form>

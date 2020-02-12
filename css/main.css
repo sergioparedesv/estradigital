@@ -1,0 +1,239 @@
+body{
+	font-family: 'Lato', sans-serif;
+}
+
+.menu-inline li{
+	color: #fff;
+	display: inline;
+	padding: 10px;
+}
+
+.social-icon-footer li{
+	display: inline;
+}
+
+.menu-sup a{
+	color: #0CAADC;
+	width: 200px;
+	padding: 10px;
+	border-bottom: 2px solid #0CAADC;
+	line-height: 40px;
+}
+.logo{
+	width: 200px;
+}
+
+.navbar-light .navbar-nav .nav-link a{
+	color: #0CAADC;
+}
+
+.main-navigation-contenet{
+	border-bottom: 1px solid #0CAADC;
+}
+
+.footer-container{
+	background-color: #333;
+	color: #FFF;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-size: 11px;
+}
+
+.breadcrumb-header{
+	padding: 20px;
+}
+
+.footer-container i{
+	font-size: 24px;
+}
+
+.footer-container h6{
+	padding-bottom: 10px;
+	border-bottom: 1px solid #ECBD24;
+	font-weight: bold;
+}
+
+
+.footer-container a{
+	color: #ECBD24;
+}
+
+
+#footer li{
+	list-style:none;
+}
+
+.footer-suscribete{
+	padding-top: 20px;
+}
+/* Styles for wrapping the search box */
+
+.main {
+    width: 45%;
+}
+
+/* Bootstrap 4 text input with search icon */
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+.contenedor-leer-mas{
+	margin: 20px;
+}
+
+/* Productos */
+
+.content-producto{
+	border:  1px solid #ededed;
+	padding: 5px;
+	min-height: 320px;
+}
+.producto-imagen img{
+	width: 100%;
+}
+.producto-titulo{
+	font-family: 'Lato', sans-serif;
+	font-size: 14px;
+	color: #666;
+}
+.producto-precio{
+	text-decoration: line-through;
+	font-family: 'Lato', sans-serif;
+	font-size: 14px;
+	color: #000;
+
+}
+.producto-promocion{
+	font-family: 'Lato', sans-serif;
+	font-size: 14px;
+	color: #EC2427;
+}
+
+.contenido-productos{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+/* tablas azules*/
+
+.table .thead-blue th {
+  color: #fff;
+  background-color: #0CAADC;
+  border-color: #0CAADC;
+}
+
+.read-more-table{
+	text-align: right;
+	float: right;
+	width: 200px;
+}
+
+.red-text{
+	color: red;
+}
+
+.tablas-pedidos{
+	margin-top: 50px;
+}
+
+.size-botton{
+	width: 100%;
+}
+
+.tab-content{
+	padding: 10px;
+	border: 1PX solid #0CAADC;
+}
+
+#nav-home-tab{
+	text-align: center;
+}
+
+#nav-profile-tab{
+	text-align: center;
+}
+
+#nav-home-tab a:focus{
+	background: #006699;
+}
+
+.nav-tabs .nav-link{
+	border: 1px solid #0CAADC;
+}
+
+.greentex{
+	color: green;
+}
+
+
+.contenedor-carga-usuarios{
+	padding: 50px;
+  /*IMPORTANTE*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #666;
+
+}
+.cargar-usuarios{
+	max-width: 600px;
+}
+
+
+#main-content{
+	margin-bottom: 20px
+}
+#bottom-content.{
+	margin-top: 20px;
+}
+
+.color-product{
+	color: #333;
+}
+
+.carrito-compra{
+	padding: 15px;
+	margin: 15px;
+	border: 1px solid blue;
+}
+
+.bloque-envio{
+	color: orange;
+	width: 100%;
+}
+
+.producto-comprado{
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#b4df5b+0,b4df5b+100;Green+Semi+Flat */
+background: #b4df5b; /* Old browsers */
+background: -moz-linear-gradient(top,  #b4df5b 0%, #b4df5b 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #b4df5b 0%,#b4df5b 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #b4df5b 0%,#b4df5b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4df5b', endColorstr='#b4df5b',GradientType=0 ); /* IE6-9 */
+
+}
+
+.btn-success a{
+	color: #fff;
+}
+
+
+.btn-primary a{
+	color: #fff;
+}
+
+.no-gutters{
+	padding: 10px;
+}
